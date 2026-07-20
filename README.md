@@ -1,5 +1,6 @@
 # <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=algerian&size=40&pause=1000&color=F70000&background=9A80FF00&center=true&vCenter=true&width=435&lines=AI+PDF+CHATBOT)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=algerian&size=40&pause=1000&color=F70000&background=9A80FF00&center=true&vCenter=true&width=435&lines=AI+PDF+CHATBOT)](https://git.io/typing-svg)
+ </P>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=PDF%20Chatbot%20RAG&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
