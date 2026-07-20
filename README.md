@@ -307,13 +307,23 @@ Passionate about building intelligent applications using Machine Learning, Deep 
 
 This project demonstrates practical implementation of modern AI techniques including semantic search, vector databases, and grounded question answering over custom PDF documents.
 
-### Connect with me
+## 🌐 Connect with Me
 
-- GitHub: https://github.com/Yuvraj-Singh0712
-- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/yuvrajsingh0712
-- Email: yuvisingh0712@email.com
+<p align="center">
 
----
+<a href="https://github.com/Yuvraj-Singh0712">
+<img src="https://img.shields.io/badge/GitHub-Yuvraj--Singh0712-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yuvrajsingh0712">
+<img src="https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yuvisingh0712@email.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 
