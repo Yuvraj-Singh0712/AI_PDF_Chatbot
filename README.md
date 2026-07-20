@@ -13,7 +13,7 @@ Run the complete project directly in Google Colab without any local setup.
 
 <p align="center">
 
-<a href="https://colab.research.google.com/github/Yuvraj-Singh0712/AI_PDF_Chatbot/blob/main/yuvraj_AI_pdf_chatbot.ipynb">
+<a href="https://colab.research.google.com/drive/1AaAcZWx2BSIhsmW8dfuLrbb-bptlw6ee?usp=sharing">
 <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
