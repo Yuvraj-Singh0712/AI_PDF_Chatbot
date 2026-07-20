@@ -162,7 +162,7 @@ PDF-Chatbot-RAG
 # ⚙️ Installation
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/Yuvraj-Singh0712/REPOSITORY.git
 ```
 
 ```bash
